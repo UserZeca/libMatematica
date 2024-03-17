@@ -14,7 +14,7 @@ Utilize o comanda abaixo para clonar o projeto: (Observação: o git deve estar 
     git clone [insira a url aqui]
 
 ´´´
-## Extra: Como utilizar o git | [Comandos básicos]
+## Extra: Como utilizar o git | Comandos básicos
 
 - Primeiramente utilize o comando git init para inciar o versionamento local.
 
